@@ -1,0 +1,1 @@
+console.log("Marshalom Bot እየሰራ ነው!");
