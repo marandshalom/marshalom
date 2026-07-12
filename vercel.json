@@ -1,7 +1,12 @@
 {
-  "functions": {
-    "api/index.js": {
-      "runtime": "nodejs18.x"
-    }
+  "name": "marshalom-bot",
+  "version": "1.0.0",
+  "description": "Marshalom Bot",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
   }
 }
