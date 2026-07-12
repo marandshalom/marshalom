@@ -1,4 +1,11 @@
-const TELEGRAM_TOKEN = "8939570857:AAEgOw_G8LAPAZAIIbi4NueilJnbJkyUOd4";
+const TELEGRAM_TOKEN = "16:52:01.749 Running build in Washington, D.C., USA (East) – iad1
+16:52:01.750 Build machine configuration: 4 cores, 8 GB
+16:52:01.858 Cloning github.com/marandshalom/marshalom (Branch: main, Commit: af2d306)
+16:52:01.859 Previous build caches not available.
+16:52:02.015 Cloning completed: 157.000ms
+16:52:02.368 Running "vercel build"
+16:52:02.380 Vercel CLI 55.0.0
+16:52:02.633 Error: Function Runtimes must have a valid version, for example `now-php@1.0.0`.";
 const OWNER_CHAT_ID = "1577576513";
 
 export default async function handler(req, res) {
